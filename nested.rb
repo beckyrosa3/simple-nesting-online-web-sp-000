@@ -90,6 +90,7 @@ def adding_matz
 				}
 			}
 end
+puts programmer_hash
 
 def changing_alan
 	programmer_hash =
